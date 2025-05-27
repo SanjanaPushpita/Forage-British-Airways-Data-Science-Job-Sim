@@ -1,0 +1,7 @@
+﻿Grouping,Example Destinations,Tier 1 %,Tier 2 %,Tier 3 %,Notes
+Long-haul International,"London, Tokyo, Sydney",100,75,50,Premium routes with lounge access
+Short-haul International,"Paris, Amsterdam, Dublin",100,50,25,Limited lounge capacity
+Domestic Business Hubs,"New York, Chicago, San Francisco",100,60,30,High demand during peak hours
+Regional / Low Demand,"Boise, Omaha, Rochester",100,30,10,Few lounges available
+Flights During Peak Hours,"6am–9am, 5pm–8pm",100,70,40,Higher lounge congestion
+Off-Peak Flights,All other times,100,50,20,More lounge availability
