@@ -1,0 +1,11 @@
+Common groups include: 
+	*Time of day: Early morning, mid-day, evening departures.
+	*Type of route: Short-haul vs. long-haul
+	*Region or destination group: Europe, North America, Asia, etc.
+
+You’ll estimate what proportion of passengers in each group are likely to be eligible for:
+	*Tier 1: Concorde Room
+	*Tier 2: First Lounge
+	*Tier 3: Club Lounge
+
+** goal is to create a lookup table that estimates lounge eligibility using clear, scalable categories
