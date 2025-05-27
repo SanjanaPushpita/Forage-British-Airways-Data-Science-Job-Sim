@@ -10,3 +10,6 @@ This Repository consist of all the info, Images,.ipnyb file and .CSV files of th
 ## TOOL USED-
 * Google Colab
 * Data used - [British Airways Customer reviews](https://www.airlinequality.com/airline-reviews/british-airways)
+
+# Word cloud
+ ![word cloud of verified reviews](https://github.com/user-attachments/assets/a59abda8-f8fb-4ed3-958b-83bcd2e66eac)
