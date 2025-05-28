@@ -7,9 +7,7 @@
 # Forage-British-Airways-Data-Science-Job-Sim
 This Repository consist of all the info, Images,.ipnyb file and .CSV files of the tasks that were assigned during the British Airways Data Science Job Sim hosted on Forage
 
-## TOOL USED-
+## TOOL USED in Task -
 * Google Colab
-* Data used - [British Airways Customer reviews](https://www.airlinequality.com/airline-reviews/british-airways)
-
-# Word cloud
- ![word cloud of verified reviews](https://github.com/user-attachments/assets/a59abda8-f8fb-4ed3-958b-83bcd2e66eac)
+* Data used in task 1 - [British Airways Customer reviews](https://www.airlinequality.com/airline-reviews/british-airways)
+* CSV file used in task 2 - [Customer booking](TASK 2/customer_booking.csv)
