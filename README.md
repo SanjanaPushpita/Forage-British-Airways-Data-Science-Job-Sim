@@ -10,4 +10,4 @@ This Repository consist of all the info, Images,.ipnyb file and .CSV files of th
 ## TOOL USED in Task -
 * Google Colab
 * Data used in task 1 - [British Airways Customer reviews](https://www.airlinequality.com/airline-reviews/british-airways)
-* CSV file used in task 2 - [Customer booking](TASK 2/customer_booking.csv)
+* CSV file used in task 2 - [Customer Booking](https://github.com/SanjanaPushpita/Forage-British-Airways-Data-Science-Job-Sim/blob/main/TASK%202/customer_booking.csv)
