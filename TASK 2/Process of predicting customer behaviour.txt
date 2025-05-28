@@ -1,0 +1,33 @@
+1. Import libraries
+2. REading the csv file and stor it into data
+3. seeing the info of the data
+4. seeing the description of the data..count,mean std etc of every numerical column
+5. then taking the unique value from the flight_day column, which is the day name..
+6. then map those days into numeric and store it into a new column name flight_day_num
+7. just check the data.desccribe()
+-----------
+8. data['num_passengers'].value_counts()
+    #checking booking counts..like The most common booking involves 1 passenger , occurring 31,352 times .
+9. make a bar plot for it
+10. then make a pie chart
+----
+11..similar like 8,9,10...you have to do it for- sales_channel, trip_type, length_of_stay, flight_hour, flight_day, route, booking_origin, wants_extra_baggage, wants_preferred_seat, wants_in_flight_meals, flight_duration, booking_complete. completeing all the column one by one
+
+IN THIS WAY WE CAN VISUALIZE THE GIVEN DATA
+----------------- 
+12. Encode sales_channel and trip_type using label encoder, store into a new column and add it to data using map function
+13. count the calues of both of them after encoding
+----------------
+Now modelling the data
+as we have added few of new columns to the data
+14. going to drom the old columns, which was used to make clear , cleaned data, as they are not needed anymore
+15. make a variable, and store those unnecessary columns
+16. Use drop function to delete those columns
+17. Finally convert the cleaned data to csv file
+
+--------
+18. TRAIN AND TEST THE DATA WITH REGRESSION MODELS ,FIND MSE AND R SQUARE OF EACH MODEL
+19. MAKE A BAR CHART OF.. Top 10 Features having impact on booking_complete (recognised by {model_name})
+-----
+19. 18. TRAIN AND TEST THE DATA WITH CLASSIFICATION MODELS ,FIND CLASSIFICATION TABLE FOR EACH MODEL
+19. MAKE A BAR CHART OF.. Top 10 Features having impact on booking_complete (recognised by {model_name})
